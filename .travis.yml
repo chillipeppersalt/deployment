@@ -13,7 +13,8 @@ branch:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true 
-  - ENCRYPTION_LABEL: 
+  - ENCRYPTION_LABEL: 0f476736c44f
+
 
   
 sudo: false
